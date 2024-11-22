@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL27Al1vQEG"
-#define BLYNK_TEMPLATE_NAME "XoEnchente"
-#define BLYNK_AUTH_TOKEN "NJNiFINbSBZu8zrqO1YNi3Pl4GV3XVSC"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 #define BLYNK_PRINT Serial
 
 #include <Arduino.h>
